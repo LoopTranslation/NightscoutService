@@ -1,6 +1,9 @@
 /* The title of the Nightscout API secret */
 "API Secret" = "API Secret";
 
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
 /* Button title to delete a service */
 "Delete Service" = "Delete Service";
 
@@ -12,3 +15,4 @@
 
 /* The title of the Nightscout site URL */
 "Site URL" = "Sito URL";
+
