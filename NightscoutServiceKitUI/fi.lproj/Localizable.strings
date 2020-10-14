@@ -1,10 +1,10 @@
 /* The title of the Nightscout API secret */
 "API Secret" = "API-salausavain";
 
-/* No comment provided by engineer. */
+/* Welcome text for onboarding. */
 "Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are ultimately what Loop uses to determine how much insulin to deliver. If you are new to Loop, work with your diabetes support team to come up with a plan for finding out what settings will work best for you." = "Ennen Loopin käyttöä sinun täytyy määrittää muutama asetus. Nämä asetukset tulee syöttää tarkasti ja huolella, sillä niiden avulla Loop tekee päätöksiä insuliinin annostelusta. Jos olet uusi Loopin käyttäjä, keskustele diabetestiimisi kanssa siitä, mitkä asetukset toimivat sinulle parhaiten.";
 
-/* No comment provided by engineer. */
+/* Cancel */
 "Cancel" = "Kumoa";
 
 /* Description of ServiceStatus of checking */
@@ -22,19 +22,19 @@
 /* Button title for starting setup */
 "I'm Ready!" = "Olen valmis!";
 
-/* No comment provided by engineer. */
+/* Login button */
 "Login" = "Kirjaudu";
 
 /* No comment provided by engineer. */
 "Logout" = "Kirjaudu ulos";
 
-/* No comment provided by engineer. */
+/* Label for description of Nightscout */
 "Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop voidaan yhdistää Nightscoutin kanssa, jotta hoitajat voivat seurata Loopin toimintaa etänä. Nightscoutin käyttö Loopin kanssa on täysin valinnaista, ja voit aina ottaa sen käyttöön myöhemmin.";
 
-/* No comment provided by engineer. */
+/* Heading */
 "Nightscout" = "Nightscout";
 
-/* No comment provided by engineer. */
+/* Nightscout login view */
 "Nightscout Login" = "Kirjaudu Nightscoutiin";
 
 /* Error when nightscout service url is not set */
@@ -67,6 +67,6 @@
 /* Button title for choosing onboarding with nightscout */
 "Use Nightscout with Loop" = "Käytä Nightscoutia Loopin kanssa";
 
-/* No comment provided by engineer. */
+/* Welcome to Loop */
 "Welcome to Loop" = "Tervetuloa Loopiin";
 
