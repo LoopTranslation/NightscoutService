@@ -110,7 +110,7 @@ extension StoredDosingDecision {
             model: pumpManagerStatus.device.model,
             iob: nil,
             battery: pumpStatusBattery,
-            suspended: pumpManagerStatus.basalDeliveryState.isSuspended,
+            suspended: pumpManagerStatus.basalDeliveryState?.isSuspended,
             bolusing: pumpStatusBolusing,
             reservoir: pumpStatusReservoir,
             secondsFromGMT: pumpManagerStatus.timeZone.secondsFromGMT())
@@ -118,7 +118,7 @@ extension StoredDosingDecision {
     
     var overrideStatus: NightscoutUploadKit.OverrideStatus {
         guard let scheduleOverride = scheduleOverride, scheduleOverride.isActive(),
-            let glucoseTargetRange = glucoseTargetRangeScheduleApplyingOverrideIfActive?.value(at: date) else
+            let glucoseTargetRange = effectiveGlucoseTargetRangeSchedule?.value(at: date) else
         {
             return NightscoutUploadKit.OverrideStatus(timestamp: date, active: false)
         }
@@ -127,7 +127,7 @@ extension StoredDosingDecision {
         let lowerTarget = HKQuantity(unit: unit, doubleValue: glucoseTargetRange.minValue)
         let upperTarget = HKQuantity(unit: unit, doubleValue: glucoseTargetRange.maxValue)
         let currentCorrectionRange = CorrectionRange(minValue: lowerTarget, maxValue: upperTarget)
-        let duration = scheduleOverride.duration != .indefinite ? round(scheduleOverride.endDate.timeIntervalSince(date)): nil
+        let duration = scheduleOverride.duration != .indefinite ? round(scheduleOverride.scheduledEndDate.timeIntervalSince(date)): nil
         
         return NightscoutUploadKit.OverrideStatus(name: scheduleOverride.context.name,
                                                   timestamp: date,
