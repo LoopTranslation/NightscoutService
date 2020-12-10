@@ -1,9 +1,6 @@
 /* The title of the Nightscout API secret */
 "API Secret" = "Secret API";
 
-/* No comment provided by engineer. */
-"Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you." = "Înainte de a folosi Loop trebuie să configurați câteva setări. Aceste setări trebuie introduse cu precizie și grijă; de fapt ele au o importantă critica pentru Loop atunci când determina câtă insulină să livreze. \n\nDacă sunteți nou în Loop, colaborați cu medicul dumneavoastră pentru a veni cu un plan pentru determinarea setărilor care vor funcționa cel mai bine pentru dumneavoastră.";
-
 /* Cancel */
 "Cancel" = "Renunță";
 
@@ -18,9 +15,6 @@
 
 /* The placeholder text for the Nightscout site URL */
 "https://mysite.herokuapp.com" = "https://siteulmeu.herokuapp.com";
-
-/* Button title for starting setup */
-"Let's Go!" = "Să începem!";
 
 /* Login button */
 "Login" = "Autentificare";
