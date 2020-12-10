@@ -1,14 +1,66 @@
 /* The title of the Nightscout API secret */
 "API Secret" = "API Secret";
 
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Description of ServiceStatus of checking */
+"Checking..." = "Checking...";
+
 /* Button title to delete a service */
 "Delete Service" = "Delete Service";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
 
 /* The placeholder text for the Nightscout site URL */
 "https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
 
+/* Login button */
+"Login" = "Login";
+
+/* No comment provided by engineer. */
+"Logout" = "Logout";
+
+/* Label for description of Nightscout */
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.";
+
+/* Heading */
+"Nightscout" = "Nightscout";
+
+/* Nightscout login view */
+"Nightscout Login" = "Nightscout Login";
+
+/* Error when nightscout service url is not set */
+"Not Available" = "Not Available";
+
+/* Description of ServiceStatus of checking */
+"OK" = "OK";
+
 /* The default placeholder for required text */
 "Required" = "Nécessaire";
 
+/* Therapy settings save button title */
+"Save Settings" = "Save Settings";
+
+/* Button title for choosing onboarding without nightscout */
+"Setup Loop without Nightscout" = "Setup Loop without Nightscout";
+
 /* The title of the Nightscout site URL */
 "Site URL" = "URL du site";
+
+/* No comment provided by engineer. */
+"Status" = "Status";
+
+/* Navigation view title */
+"Therapy Settings" = "Therapy Settings";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* Button title for choosing onboarding with nightscout */
+"Use Nightscout with Loop" = "Use Nightscout with Loop";
+
+/* Welcome to Loop */
+"Welcome to Loop" = "Welcome to Loop";
+

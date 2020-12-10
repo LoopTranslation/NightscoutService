@@ -1,0 +1,66 @@
+/* The title of the Nightscout API secret */
+"API Secret" = "API-salausavain";
+
+/* Cancel */
+"Cancel" = "Kumoa";
+
+/* Description of ServiceStatus of checking */
+"Checking..." = "Tarkistetaan...";
+
+/* Button title to delete a service */
+"Delete Service" = "Poista palvelu";
+
+/* No comment provided by engineer. */
+"Done" = "Valmis";
+
+/* The placeholder text for the Nightscout site URL */
+"https://mysite.herokuapp.com" = "https://omaosoite.herokuapp.com";
+
+/* Login button */
+"Login" = "Kirjaudu";
+
+/* No comment provided by engineer. */
+"Logout" = "Kirjaudu ulos";
+
+/* Label for description of Nightscout */
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop voidaan yhdistää Nightscoutin kanssa, jotta hoitajat voivat seurata Loopin toimintaa etänä. Nightscoutin käyttö Loopin kanssa on täysin valinnaista, ja voit aina ottaa sen käyttöön myöhemmin.";
+
+/* Heading */
+"Nightscout" = "Nightscout";
+
+/* Nightscout login view */
+"Nightscout Login" = "Kirjaudu Nightscoutiin";
+
+/* Error when nightscout service url is not set */
+"Not Available" = "Ei käytettävissä";
+
+/* Description of ServiceStatus of checking */
+"OK" = "OK";
+
+/* The default placeholder for required text */
+"Required" = "Pakollinen";
+
+/* Therapy settings save button title */
+"Save Settings" = "Tallenna asetukset";
+
+/* Button title for choosing onboarding without nightscout */
+"Setup Loop without Nightscout" = "Asenna Loop ilman Nightscoutia";
+
+/* The title of the Nightscout site URL */
+"Site URL" = "URL";
+
+/* No comment provided by engineer. */
+"Status" = "Tila";
+
+/* Navigation view title */
+"Therapy Settings" = "Hoitoasetukset";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* Button title for choosing onboarding with nightscout */
+"Use Nightscout with Loop" = "Käytä Nightscoutia Loopin kanssa";
+
+/* Welcome to Loop */
+"Welcome to Loop" = "Tervetuloa Loopiin";
+

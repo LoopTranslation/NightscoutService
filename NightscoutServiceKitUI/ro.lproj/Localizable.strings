@@ -1,0 +1,66 @@
+/* The title of the Nightscout API secret */
+"API Secret" = "Secret API";
+
+/* Cancel */
+"Cancel" = "Renunță";
+
+/* Description of ServiceStatus of checking */
+"Checking..." = "Se verifică...";
+
+/* Button title to delete a service */
+"Delete Service" = "Șterge serviciu";
+
+/* No comment provided by engineer. */
+"Done" = "Terminat";
+
+/* The placeholder text for the Nightscout site URL */
+"https://mysite.herokuapp.com" = "https://siteulmeu.herokuapp.com";
+
+/* Login button */
+"Login" = "Autentificare";
+
+/* No comment provided by engineer. */
+"Logout" = "Delogare";
+
+/* Label for description of Nightscout */
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop poate lucra cu Nightscout pentru a oferi îngrijitorilor o modalitate de a vedea de la distanță ce face Loop. Utilizarea Nightscout este complet opțională cu Loop și poate fi configurat întotdeauna mai târziu.";
+
+/* Heading */
+"Nightscout" = "Nightscout";
+
+/* Nightscout login view */
+"Nightscout Login" = "Autentificare Nightscout";
+
+/* Error when nightscout service url is not set */
+"Not Available" = "Indisponibil";
+
+/* Description of ServiceStatus of checking */
+"OK" = "OK";
+
+/* The default placeholder for required text */
+"Required" = "Obligatoriu";
+
+/* Therapy settings save button title */
+"Save Settings" = "Salvează Setările";
+
+/* Button title for choosing onboarding without nightscout */
+"Setup Loop without Nightscout" = "Instalare buclă fără Nightscout";
+
+/* The title of the Nightscout site URL */
+"Site URL" = "URL site";
+
+/* No comment provided by engineer. */
+"Status" = "Stare";
+
+/* Navigation view title */
+"Therapy Settings" = "Setări Terapie";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* Button title for choosing onboarding with nightscout */
+"Use Nightscout with Loop" = "Folosește Nightscout cu Loop";
+
+/* Welcome to Loop */
+"Welcome to Loop" = "Bun venit în Loop";
+

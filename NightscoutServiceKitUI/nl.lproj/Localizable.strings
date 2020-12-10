@@ -1,14 +1,66 @@
 /* The title of the Nightscout API secret */
 "API Secret" = "API Secret";
 
+/* Cancel */
+"Cancel" = "Annuleer";
+
+/* Description of ServiceStatus of checking */
+"Checking..." = "Controleren...";
+
 /* Button title to delete a service */
-"Delete Service" = "Delete Service";
+"Delete Service" = "Service verwijderen";
+
+/* No comment provided by engineer. */
+"Done" = "Voltooid";
 
 /* The placeholder text for the Nightscout site URL */
 "https://mysite.herokuapp.com" = "https://mijnsite.herokuapp.com";
 
+/* Login button */
+"Login" = "Login";
+
+/* No comment provided by engineer. */
+"Logout" = "Uitloggen";
+
+/* Label for description of Nightscout */
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop kan met Nightscout werken om externe behandelaars een manier te bieden te zien wat Loop doet. Nightscout gebruik is volledig optioneel bij Loop, en je kunt het altijd later instellen.";
+
+/* Heading */
+"Nightscout" = "Nightscout";
+
+/* Nightscout login view */
+"Nightscout Login" = "Nightscout login";
+
+/* Error when nightscout service url is not set */
+"Not Available" = "Niet beschikbaar";
+
+/* Description of ServiceStatus of checking */
+"OK" = "Ok";
+
 /* The default placeholder for required text */
 "Required" = "Vereist";
 
+/* Therapy settings save button title */
+"Save Settings" = "Instellingen opslaan";
+
+/* Button title for choosing onboarding without nightscout */
+"Setup Loop without Nightscout" = "Setup Loop zonder Nightscout";
+
 /* The title of the Nightscout site URL */
 "Site URL" = "Webpagina URL";
+
+/* No comment provided by engineer. */
+"Status" = "Status";
+
+/* Navigation view title */
+"Therapy Settings" = "Therapie instellingen";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* Button title for choosing onboarding with nightscout */
+"Use Nightscout with Loop" = "Gebruik Nightscout met Loop";
+
+/* Welcome to Loop */
+"Welcome to Loop" = "Welkom bij Loop";
+
