@@ -1,44 +1,44 @@
 /* The title of the Nightscout API secret */
-"API Secret" = "API Secret";
+"API Secret" = "Code secret API";
 
 /* No comment provided by engineer. */
-"Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you." = "Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you.";
+"Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you." = "Avant d’utiliser Loop, vous devez configurer quelques paramètres. Ces paramètres doivent être entrés avec précision et soin; ils sont déterminants dans la façon dont Loop détermine la bonne quantité d’insuline à fournir.\n\nSi vous êtes nouveau sur Loop, travaillez avec votre équipe médicale lié au diabète pour déterminer les paramètres qui vous conviennent le mieux.";
 
 /* Cancel */
-"Cancel" = "Cancel";
+"Cancel" = "Annuler";
 
 /* Description of ServiceStatus of checking */
-"Checking..." = "Checking...";
+"Checking..." = "Vérification en cours...";
 
 /* Button title to delete a service */
-"Delete Service" = "Delete Service";
+"Delete Service" = "Supprimer le service";
 
 /* No comment provided by engineer. */
-"Done" = "Done";
+"Done" = "Terminé";
 
 /* The placeholder text for the Nightscout site URL */
 "https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
 
 /* Button title for starting setup */
-"Let's Go!" = "Let's Go!";
+"Let's Go!" = "C'est parti !";
 
 /* Login button */
-"Login" = "Login";
+"Login" = "Se connecter";
 
 /* No comment provided by engineer. */
-"Logout" = "Logout";
+"Logout" = "Déconnexion";
 
 /* Label for description of Nightscout */
-"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.";
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop peut fonctionner avec Nightscout pour fournir aux soignants un moyen de consulter à distance l'activité de Loop. \nL'utilisation de Nightscout est complètement optionnelle avec Loop, et vous pouvez toujours le configurer plus tard.";
 
 /* Heading */
 "Nightscout" = "Nightscout";
 
 /* Nightscout login view */
-"Nightscout Login" = "Nightscout Login";
+"Nightscout Login" = "Connexion à Nightscout";
 
 /* Error when nightscout service url is not set */
-"Not Available" = "Not Available";
+"Not Available" = "Données indisponibles";
 
 /* Description of ServiceStatus of checking */
 "OK" = "OK";
@@ -47,26 +47,26 @@
 "Required" = "Nécessaire";
 
 /* Therapy settings save button title */
-"Save Settings" = "Save Settings";
+"Save Settings" = "Sauvegarder les paramètres";
 
 /* Button title for choosing onboarding without nightscout */
-"Setup Loop without Nightscout" = "Setup Loop without Nightscout";
+"Setup Loop without Nightscout" = "Configurer Loop sans Nightscout";
 
 /* The title of the Nightscout site URL */
 "Site URL" = "URL du site";
 
 /* No comment provided by engineer. */
-"Status" = "Status";
+"Status" = "Statut";
 
 /* Navigation view title */
-"Therapy Settings" = "Therapy Settings";
+"Therapy Settings" = "Paramètres de thérapie";
 
 /* No comment provided by engineer. */
 "URL" = "URL";
 
 /* Button title for choosing onboarding with nightscout */
-"Use Nightscout with Loop" = "Use Nightscout with Loop";
+"Use Nightscout with Loop" = "Utilisez Nightscout avec Loop";
 
 /* Welcome to Loop */
-"Welcome to Loop" = "Welcome to Loop";
+"Welcome to Loop" = "Bienvenue sur Loop";
 

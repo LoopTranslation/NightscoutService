@@ -29,7 +29,7 @@
 "Logout" = "Log ud";
 
 /* Label for description of Nightscout */
-"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Via Nightscout giver Loop mulighed for andre at se, hvad Loop gør. Brug af Nightscout er valgfri, og du kan altid sætte det op senere.";
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Nightscout giver mulighed for andre kan se, hvad Loop gør. Brug af Nightscout er valgfri, og du kan altid sætte det op senere.";
 
 /* Heading */
 "Nightscout" = "Nightscout";

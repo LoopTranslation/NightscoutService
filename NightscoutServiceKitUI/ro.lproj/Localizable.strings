@@ -26,7 +26,7 @@
 "Login" = "Autentificare";
 
 /* No comment provided by engineer. */
-"Logout" = "Delogare";
+"Logout" = "Deconectare";
 
 /* Label for description of Nightscout */
 "Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop poate lucra cu Nightscout pentru a oferi îngrijitorilor o modalitate de a vedea de la distanță ce face Loop. Utilizarea Nightscout este complet opțională cu Loop și poate fi configurat întotdeauna mai târziu.";
@@ -50,7 +50,7 @@
 "Save Settings" = "Salvează Setările";
 
 /* Button title for choosing onboarding without nightscout */
-"Setup Loop without Nightscout" = "Instalare buclă fără Nightscout";
+"Setup Loop without Nightscout" = "Configurare Loop fără Nightscout";
 
 /* The title of the Nightscout site URL */
 "Site URL" = "URL site";

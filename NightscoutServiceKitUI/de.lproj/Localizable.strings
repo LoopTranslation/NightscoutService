@@ -2,34 +2,34 @@
 "API Secret" = "API Secret";
 
 /* No comment provided by engineer. */
-"Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you." = "Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you.";
+"Before using Loop you need to configure a few settings. These settings should be entered with precision and care; they are a critical part of how Loop determines the right amount of insulin to deliver.\n\nIf you are new to Loop, work with your diabetes support team to determine the settings that work best for you." = "Bevor Sie Loop verwenden, müssen Sie einige Einstellungen konfigurieren. Diese Einstellungen sollten mit Präzision und Sorgfalt eingegeben werden; sie sind ein kritischer Teil davon, wie Loop die richtige Menge an Insulin bestimmt.\n\nWenn Sie Loop noch nicht haben, arbeiten Sie mit Ihrem Diabetes-Support-Team zusammen, um die Einstellungen zu ermitteln, die für Sie am besten funktionieren.";
 
 /* Cancel */
-"Cancel" = "Cancel";
+"Cancel" = "Abbrechen";
 
 /* Description of ServiceStatus of checking */
-"Checking..." = "Checking...";
+"Checking..." = "Überprüfen...";
 
 /* Button title to delete a service */
-"Delete Service" = "Delete Service";
+"Delete Service" = "Dienst löschen";
 
 /* No comment provided by engineer. */
-"Done" = "Done";
+"Done" = "Fertig";
 
 /* The placeholder text for the Nightscout site URL */
 "https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
 
 /* Button title for starting setup */
-"Let's Go!" = "Let's Go!";
+"Let's Go!" = "Auf geht’s!";
 
 /* Login button */
-"Login" = "Login";
+"Login" = "Anmelden";
 
 /* No comment provided by engineer. */
-"Logout" = "Logout";
+"Logout" = "Abmelden";
 
 /* Label for description of Nightscout */
-"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later.";
+"Loop can work with Nightscout to provide remote caregivers a way to see what Loop is doing. Nightscout use is completely optional with Loop, and you can always set it up later." = "Loop kann mit Nightscout zusammenarbeiten, um Betreuungspersonen eine Möglichkeit zu bieten, zu sehen, was Loop tut. Nightscout-Nutzung ist mit Loop völlig optional, und Sie können es auch später noch einrichten.";
 
 /* Heading */
 "Nightscout" = "Nightscout";
@@ -38,7 +38,7 @@
 "Nightscout Login" = "Nightscout Login";
 
 /* Error when nightscout service url is not set */
-"Not Available" = "Not Available";
+"Not Available" = "Nicht verfügbar";
 
 /* Description of ServiceStatus of checking */
 "OK" = "OK";
@@ -47,10 +47,10 @@
 "Required" = "Erforderlich";
 
 /* Therapy settings save button title */
-"Save Settings" = "Save Settings";
+"Save Settings" = "Einstellungen speichern";
 
 /* Button title for choosing onboarding without nightscout */
-"Setup Loop without Nightscout" = "Setup Loop without Nightscout";
+"Setup Loop without Nightscout" = "Setup Loop ohne Nightscout";
 
 /* The title of the Nightscout site URL */
 "Site URL" = "Seiten-URL";
@@ -59,14 +59,14 @@
 "Status" = "Status";
 
 /* Navigation view title */
-"Therapy Settings" = "Therapy Settings";
+"Therapy Settings" = "Therapieeinstellungen";
 
 /* No comment provided by engineer. */
 "URL" = "URL";
 
 /* Button title for choosing onboarding with nightscout */
-"Use Nightscout with Loop" = "Use Nightscout with Loop";
+"Use Nightscout with Loop" = "Verwenden von Nightscout mit Loop";
 
 /* Welcome to Loop */
-"Welcome to Loop" = "Welcome to Loop";
+"Welcome to Loop" = "Willkommen bei Loop";
 
